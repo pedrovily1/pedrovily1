@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--![Header](./[Your header image])
+
 **pedrovily1/pedrovily1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
