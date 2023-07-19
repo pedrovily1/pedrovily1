@@ -2,6 +2,7 @@
 ![Header](./header.png)
 
 ### Hi there 👋
+- 🌱 I’m currently learning react! Feel free to message me and collab!
 
 <!--!
 [Header](./[header.png])
