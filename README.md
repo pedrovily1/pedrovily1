@@ -3,9 +3,7 @@
 
 ### Hi there 👋
  
-| <a href="https://github.com/pedrovily1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrovily1&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/pedrovily1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovily1theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovily1&layout=compact)](https://github.com/pedrovily1/github-readme-stats)
 <!--!
 [Header](./[header.png])
 
